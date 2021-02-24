@@ -1,0 +1,13 @@
+C:\Users\camar\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.exe
+C:\Users\camar\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.deps.json
+C:\Users\camar\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.runtimeconfig.json
+C:\Users\camar\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.runtimeconfig.dev.json
+C:\Users\camar\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.dll
+C:\Users\camar\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.pdb
+C:\Users\camar\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.csprojAssemblyReference.cache
+C:\Users\camar\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.AssemblyInfoInputs.cache
+C:\Users\camar\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.AssemblyInfo.cs
+C:\Users\camar\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.csproj.CoreCompileInputs.cache
+C:\Users\camar\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.dll
+C:\Users\camar\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.pdb
+C:\Users\camar\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.genruntimeconfig.cache
