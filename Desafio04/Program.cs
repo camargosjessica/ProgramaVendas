@@ -11,9 +11,6 @@ namespace Desafio04
             menu();
 
         }
-
-        
-
         static void menu()
         {
             Console.WriteLine("Programa de vendas\n" +
@@ -46,9 +43,7 @@ namespace Desafio04
                 Console.WriteLine("Opção invalida");
                 menu();
             }
-
         }
-
         static void adicionarVenda()
         {
             Venda venda = new Venda(); //criei um objeto venda
@@ -71,17 +66,14 @@ namespace Desafio04
             }
             return totalVendas;
         }
-
         static void totalVendas()
         {
-
             double totalVendas = calculaTotalVendas();
 
             Console.WriteLine("Total de vendas: " + totalVendas);
 
             menu();
         }
-
         static void mediaVendas()
         {
             double totalVendas = calculaTotalVendas();
@@ -91,7 +83,6 @@ namespace Desafio04
 
             menu();
         }
-
         static void exibirTodasVendas()
         {
             foreach (Venda venda1 in listaVendas)
@@ -99,8 +90,6 @@ namespace Desafio04
                 Console.WriteLine("Nome: " + venda1.nome +"\nValor: " + venda1.valor);
             }
             menu();
-
         }
-
     }
 }
